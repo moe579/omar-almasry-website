@@ -110,7 +110,7 @@ canvas {
 /** Footer **/
 footer {
   position: sticky;
-  margin-top: 26em;
+  margin-top: 25em;
   height: 7.1em;
   z-index: 1;
   background-color: rgb(255,255,0);
