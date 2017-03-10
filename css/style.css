@@ -35,7 +35,7 @@ li:hover {
 }
 
 li.active a {
-    background-color: white !important; 
+    background-color: #FFF !important; 
     color: rgb(219, 50, 54) !important; 
     font-weight: bold !important; 
 }
@@ -111,7 +111,6 @@ canvas {
 footer {
   margin-top: 25em;
   height: 7.1em;
-  z-index: 1;
   background-color: rgb(255,255,0);
 }
 
